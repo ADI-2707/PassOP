@@ -3,7 +3,7 @@
 A lightweight, browser-based password manager built with React and Vite. Store and manage your passwords securely in your browser's local storage.
 
 <p align='center'>
-<img src='passop/assets/po1.png' width=600>
+<img src='assets/po1.png' width=600>
 </p>
 
 ##  Overview
